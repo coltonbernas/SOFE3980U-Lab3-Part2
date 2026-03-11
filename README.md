@@ -7,6 +7,7 @@ hiiiii
 
 test
 test 2
+test CI/CD
 
 # Lab 3 Part 2: Continuous Integration and Continuous Delivery (Jenkins)
 ## Objective   
